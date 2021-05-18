@@ -142,3 +142,6 @@ cython_debug/
 
 # Directory Infomation on MacOS
 **/.DS_Store
+
+# python version of pyenv local
+.python-version
